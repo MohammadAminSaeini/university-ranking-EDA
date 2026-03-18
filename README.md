@@ -27,5 +27,7 @@ It includes fields such as *World Rank, Institution, Location, National Rank, Qu
 3. **Geographic Clustering**: Visualizing the universities globally highlights distinct regional centers of academic excellence, prominently clustered in North America, Western Europe, and East Asia.
 4. **Primary Takeaway**: Research quality and faculty excellence consistently emerge as the strongest predictors of overall university ranking performance.
 
-
+## Let's Connect
+* **LinkedIn**: [Let's network!](https://www.linkedin.com/in/mohammad-amin-saeini)
+* **Kaggle**: [Check out on Kaggle!](https://www.kaggle.com/code/mohammadaminsaeini/university-rankings-data-analysis)
 
